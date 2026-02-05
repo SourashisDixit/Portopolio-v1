@@ -1,0 +1,112 @@
+================================================================================
+ANKIT ROUT - PORTFOLIO WEBSITE
+Quick Start Guide for Local Development
+================================================================================
+
+PREREQUISITES:
+- Node.js v18+ (https://nodejs.org/)
+- pnpm v10+ (npm install -g pnpm)
+
+QUICK START STEPS:
+
+1. Extract the project folder to your desired location
+
+2. Open terminal/command prompt and navigate to the project:
+   cd ankit-rout-portfolio
+
+3. Install dependencies:
+   pnpm install
+
+4. Start development server:
+   pnpm dev
+
+5. Open your browser and go to:
+   http://localhost:5173
+
+That's it! Your portfolio is now running locally.
+
+================================================================================
+USEFUL COMMANDS:
+================================================================================
+
+Start development server:
+  pnpm dev
+
+Build for production:
+  pnpm build
+
+Preview production build:
+  pnpm preview
+
+Type check:
+  pnpm check
+
+Format code:
+  pnpm format
+
+================================================================================
+PROJECT STRUCTURE:
+================================================================================
+
+client/src/pages/Home.tsx     - Main portfolio page (edit your content here)
+client/src/index.css          - Global styles and theme colors
+client/index.html             - HTML template
+package.json                  - Project dependencies
+
+================================================================================
+CUSTOMIZATION:
+================================================================================
+
+To update your information:
+1. Open client/src/pages/Home.tsx
+2. Find the sections you want to edit
+3. Update the text, links, and information
+4. Save the file - changes will auto-reload in browser
+
+To change colors:
+1. Open client/src/index.css
+2. Look for CSS variables like --primary and --accent
+3. Change the color values
+4. Save and see changes instantly
+
+================================================================================
+DEPLOYMENT:
+================================================================================
+
+Build for production:
+  pnpm build
+
+This creates an optimized build in the dist/ folder.
+
+Deploy to:
+- Vercel: npm install -g vercel && vercel
+- Netlify: npm install -g netlify-cli && netlify deploy
+- GitHub Pages: Push dist/ folder to your gh-pages branch
+- Traditional hosting: Upload dist/ folder to your web server
+
+================================================================================
+TROUBLESHOOTING:
+================================================================================
+
+Port already in use?
+  Vite will automatically use the next available port
+
+Dependencies not installing?
+  rm -rf node_modules && pnpm install
+
+Build errors?
+  rm -rf dist && pnpm build
+
+================================================================================
+NEED HELP?
+================================================================================
+
+For more detailed setup instructions, see README_LOCAL_SETUP.md
+
+Contact:
+- Email: ankitrout513151979@gmail.com
+- Phone: +91 7682949708
+- LinkedIn: https://linkedin.com/in/ankitrout07
+- GitHub: https://github.com/ankit-7i
+
+================================================================================
