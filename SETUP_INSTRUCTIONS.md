@@ -26,16 +26,16 @@ Your portfolio project folder contains everything needed to run the website loca
 
 ### 1. Extract the Project
 
-Extract the `ankit-rout-portfolio-clean.tar.gz` file to your desired location.
+Extract the `sourashis-portfolio-clean.tar.gz` file to your desired location.
 
 On Windows: Use 7-Zip, WinRAR, or built-in extraction
-On Mac/Linux: `tar -xzf ankit-rout-portfolio-clean.tar.gz`
+On Mac/Linux: `tar -xzf sourashis-portfolio-clean.tar.gz`
 
 ### 2. Open Terminal/Command Prompt
 
 Navigate to the extracted folder:
 ```bash
-cd ankit-rout-portfolio
+cd sourashis-portfolio
 ```
 
 ### 3. Install Dependencies
@@ -132,7 +132,7 @@ netlify deploy --prod --dir=dist
 ## Project Structure
 
 ```
-ankit-rout-portfolio/
+sourashis-portfolio/
 ├── client/
 │   ├── public/              # Static assets
 │   ├── src/
@@ -197,18 +197,18 @@ pnpm build
 ## GitHub Projects
 
 Your portfolio links to these GitHub repositories:
-- **ForEver**: https://github.com/ankit-7i/ForEver
-- **ElectroStore**: https://github.com/ankit-7i/ElectroStore
+- **ForEver**: https://github.com/SourashisDixit
+- **ElectroStore**: https://github.com/SourashisDixit
 
 Update these URLs in `Home.tsx` if you have different repositories.
 
 ## Contact Information
 
 Update your contact details in the Contact section:
-- Email: ankitrout513151979@gmail.com
-- Phone: +91 7682949708
-- LinkedIn: https://linkedin.com/in/ankitrout07
-- GitHub: https://github.com/ankit-7i
+- Email: dixitsourashis@gmail.com
+- Phone: +91 78478 03593
+- LinkedIn: https://www.linkedin.com/in/sourashis-dixit-2003s
+- GitHub: https://github.com/SourashisDixit
 
 ## Technology Stack
 
@@ -232,7 +232,7 @@ Update your contact details in the Contact section:
 2. Read **README_LOCAL_SETUP.md** for detailed guide
 3. Visit React docs: https://react.dev
 4. Visit Tailwind docs: https://tailwindcss.com
-5. Contact: ankitrout513151979@gmail.com
+5. Contact: dixitsourashis@gmail.com
 
 ## Next Steps
 

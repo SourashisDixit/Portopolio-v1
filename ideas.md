@@ -1,7 +1,7 @@
-# Portfolio Design Brainstorm for Ankit Rout
+# Portfolio Design Brainstorm for Sourashis Dixit
 
 ## Context
-Ankit Rout is a Full Stack Java Developer with strong expertise in distributed systems, microservices, and cloud technologies. The portfolio should communicate technical depth, professionalism, and innovation. Target audience: recruiters, tech leads, and hiring managers who value scalable architecture and modern development practices.
+Sourashis Dixit is a Full Stack .NET Developer with strong expertise in .NET, React, and Azure. The portfolio should communicate technical depth, professionalism, and innovation. Target audience: recruiters, tech leads, and hiring managers who value scalable architecture and modern development practices.
 
 ---
 
@@ -161,7 +161,7 @@ Contemporary vibrant design inspired by modern tech startups and creative commun
 
 **Chosen Approach: Modern Tech-Forward Minimalism**
 
-This approach best serves Ankit's profile because:
+This approach best serves Sourashis' profile because:
 1. **Technical credibility**: Dark + cyan aesthetic directly appeals to developers and tech hiring managers
 2. **Content focus**: Minimalist design ensures technical achievements and projects are the focal point
 3. **Scalability**: Clean structure allows easy addition of new projects and experiences

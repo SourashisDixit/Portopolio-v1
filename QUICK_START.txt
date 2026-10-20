@@ -1,5 +1,5 @@
 ================================================================================
-ANKIT ROUT - PORTFOLIO WEBSITE
+SOURASHIS DIXIT - PORTFOLIO WEBSITE
 Quick Start Guide for Local Development
 ================================================================================
 
@@ -12,7 +12,7 @@ QUICK START STEPS:
 1. Extract the project folder to your desired location
 
 2. Open terminal/command prompt and navigate to the project:
-   cd ankit-rout-portfolio
+   cd sourashis-portfolio
 
 3. Install dependencies:
    pnpm install
@@ -104,9 +104,9 @@ NEED HELP?
 For more detailed setup instructions, see README_LOCAL_SETUP.md
 
 Contact:
-- Email: ankitrout513151979@gmail.com
-- Phone: +91 7682949708
-- LinkedIn: https://linkedin.com/in/ankitrout07
-- GitHub: https://github.com/ankit-7i
+- Email: dixitsourashis@gmail.com
+- Phone: +91 78478 03593
+- LinkedIn: https://www.linkedin.com/in/sourashis-dixit-2003s
+- GitHub: https://github.com/SourashisDixit
 
 ================================================================================

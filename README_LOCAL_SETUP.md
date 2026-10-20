@@ -1,4 +1,4 @@
-# Ankit Rout - Portfolio Website
+# Sourashis Dixit - Portfolio Website
 
 A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS. Features a tech-forward design with electric cyan accents and smooth animations.
 
@@ -34,7 +34,7 @@ Before running the project locally, ensure you have:
 
 ```bash
 # If you have the folder, navigate to it
-cd ankit-rout-portfolio
+cd sourashis-portfolio
 ```
 
 ### 2. Install Dependencies
@@ -76,7 +76,7 @@ pnpm preview
 ## 📁 Project Structure
 
 ```
-ankit-rout-portfolio/
+sourashis-portfolio/
 ├── client/
 │   ├── public/              # Static assets
 │   ├── src/
@@ -129,18 +129,18 @@ The portfolio is fully responsive with breakpoints for:
 ## 🔗 GitHub Projects
 
 The portfolio includes links to your GitHub projects:
-- **ForEver**: https://github.com/ankit-7i/ForEver
-- **ElectroStore**: https://github.com/ankit-7i/ElectroStore
+- **ForEver**: https://github.com/SourashisDixit
+- **ElectroStore**: https://github.com/SourashisDixit
 
 Update these URLs in `Home.tsx` if you have different repositories.
 
 ## 📧 Contact Information
 
 Update your contact details in the Contact section:
-- Email: ankitrout513151979@gmail.com
-- Phone: +91 7682949708
-- LinkedIn: https://linkedin.com/in/ankitrout07
-- GitHub: https://github.com/ankit-7i
+- Email: dixitsourashis@gmail.com
+- Phone: +91 78478 03593
+- LinkedIn: https://www.linkedin.com/in/sourashis-dixit-2003s
+- GitHub: https://github.com/SourashisDixit
 
 ## 🚢 Deployment Options
 
@@ -225,7 +225,7 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 About
 
-Portfolio website for **Ankit Rout**, a Full Stack Java Developer specializing in distributed systems, microservices, and cloud technologies.
+Portfolio website for **Sourashis Dixit**, a Full Stack .NET Developer building practical applications with .NET, React, and Azure.
 
 ---
 
