@@ -15,9 +15,9 @@ export default function ReticleCursor() {
       dot.style.transform = `translate3d(${x - 4}px,${y - 4}px,0)`;
       dot.style.opacity = ring.style.opacity = "1";
       const target = event.target instanceof Element ? event.target : null;
-      const hovering = Boolean(target?.closest("a,button,[data-cursor]")); ring.classList.toggle("is-hovering", hovering); dot.classList.toggle("is-hovering", hovering);
+      const hovering = Boolean(target?.closest("a,button,[data-cursor],.pf-capability-card,.pf-project-card,.pf-logo-tile,.pf-education-grid article,.pf-job")); ring.classList.toggle("is-hovering", hovering); dot.classList.toggle("is-hovering", hovering);
     };
-    const animate = () => { rx += (x-rx)*.15; ry += (y-ry)*.15; ring.style.transform = `translate3d(${rx-20}px,${ry-20}px,0)`; frame = requestAnimationFrame(animate); };
+    const animate = () => { rx += (x-rx)*.15; ry += (y-ry)*.15; ring.style.transform = `translate3d(${rx-26}px,${ry-26}px,0)`; frame = requestAnimationFrame(animate); };
     const hide = () => { dot.style.opacity = ring.style.opacity = "0"; };
     const down = () => ring.classList.add("is-pressed"), up = () => ring.classList.remove("is-pressed");
     addEventListener("pointermove", move); addEventListener("pointerdown", down); addEventListener("pointerup", up); addEventListener("blur", hide); document.documentElement.addEventListener("mouseleave", hide);
