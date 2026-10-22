@@ -161,3 +161,4 @@ body.pf-tech-card-hover .pf-reticle-ring{visibility:hidden!important}
 .pf-about .pf-about-copy{margin-top:0}
 @media(max-width:760px){.pf-about .pf-about-copy{margin-top:4px}}
 .pf-project-card,.pf-education-grid article,.pf-capability-card{border-radius:10px}
+@media(hover:hover) and (pointer:fine){.pf-tech-card-shell:hover .pf-tech-details,.pf-tech-card-shell:focus-within .pf-tech-details{display:grid}.pf-tech-card-shell:hover .pf-tech-card,.pf-tech-card-shell:focus-within .pf-tech-card{border-color:var(--pf-orange)}}
