@@ -163,3 +163,5 @@ body.pf-tech-card-hover .pf-reticle-ring{visibility:hidden!important}
 .pf-project-card,.pf-education-grid article,.pf-capability-card{border-radius:10px}
 @media(hover:hover) and (pointer:fine){.pf-tech-card-shell:hover .pf-tech-details,.pf-tech-card-shell:focus-within .pf-tech-details{display:grid}.pf-tech-card-shell:hover .pf-tech-card,.pf-tech-card-shell:focus-within .pf-tech-card{border-color:var(--pf-orange)}}
 .pf-email-button{font-size:9.5px;letter-spacing:.04em}
+@media(max-width:760px){.pf-hero{grid-template-columns:minmax(0,1fr);width:100%;min-width:0}.pf-hero-copy{width:100%;min-width:0}.pf-hero h1{max-width:100%;font-size:clamp(38px,11.5vw,74px);letter-spacing:-.045em}.pf-intro{max-width:100%;overflow-wrap:break-word}}
+@media(max-width:520px){.pf-hero h1{font-size:clamp(36px,12vw,56px)}}
